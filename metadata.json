@@ -1,0 +1,6 @@
+{
+  "name": "Weather Forecast — Central Jakarta",
+  "description": "Liquid-glass desktop weather forecast dashboard featuring Central Jakarta with dynamic atmospheric storm backdrop and wave chart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
